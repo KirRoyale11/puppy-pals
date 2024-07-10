@@ -1,0 +1,26 @@
+body {
+  color: bisque;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.featPupContainer {
+  border: 2px solid darkgray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+}
+
+.pupContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid brown;
+  margin: 15px 100px 15px 100px;
+  padding: 5px;
+  width: 200px;
+}
+
